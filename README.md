@@ -14,4 +14,5 @@ Questo progetto è una demo del gioco Magic Research, sviluppata interamente in 
 Nota legale: si tratta di un progetto amatoriale a scopo didattico. Tutti i diritti relativi al concept, al gameplay e all’idea originale appartengono agli sviluppatori di Magic Research.
 
 
-<img width="1908" height="1106" alt="Screenshot 2026-01-04 014150" src="https://github.com/user-attachments/assets/e9eb55e0-5ffa-44b5-a7dc-1f8736c5abd4" />
+
+<img width="1913" height="1098" alt="Screenshot 2026-01-04 014430" src="https://github.com/user-attachments/assets/5b1b7ee9-d720-4529-a452-3d484c31b314" />
