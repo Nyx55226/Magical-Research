@@ -99,8 +99,8 @@ public class Main extends javax.swing.JFrame {
     }
     
 
-    ImageIcon ImmagineIcona=new ImageIcon(getClass().getResource("/Img/MagicalResearchIcona.png"));
-    Image immagineIcona= ImmagineIcona.getImage().getScaledInstance(64, 64, Image.SCALE_SMOOTH);
+    ImageIcon ImaggineIcona=new ImageIcon(getClass().getResource("/Img/MagicalResearchIcona.png"));
+    Image iconImage= ImaggineIcona.getImage().getScaledInstance(64, 64, Image.SCALE_SMOOTH);
     //immagini
     ImageIcon iconaMana = new ImageIcon(getClass().getResource("/Img/mana.png"));
     Image iconamana=iconaMana.getImage().getScaledInstance(16, 16, Image.SCALE_SMOOTH);
@@ -206,6 +206,7 @@ public class Main extends javax.swing.JFrame {
     public Main() {
         initComponents();
         setLocationRelativeTo(null);
+        this.setIconImage(iconImage);
         applyLightTheme();
         updateGUI();
         HomePage.add(PanelloFisso,BorderLayout.SOUTH);
